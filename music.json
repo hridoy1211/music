@@ -1,0 +1,83 @@
+[
+    {
+        "name": "Raef al Hasan Rafa",
+        "id": 1,
+        "designation": "Metal Guitarist",
+        "band": "Avoid Rafa",
+        "price": 97,
+        "img": "https://pbs.twimg.com/profile_images/1271854355302379520/KJbg6uIL_400x400.jpg",
+        "course": "6 Month"
+    },
+    {
+        "name": "Mahaan Fahim",
+        "id": 2,
+        "designation": "Clasical Guitarist",
+        "band": "Arthohin",
+        "price": 125,
+        "img": "https://scontent.fdac41-1.fna.fbcdn.net/v/t1.6435-9/140306235_3871826089540173_4316387104836408320_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=mIeZegBrpyMAX8gD-SP&_nc_ht=scontent.fdac41-1.fna&oh=e5451b9ccc825b0339feff3352075c8b&oe=6180506C",
+        "course": "12 Month"
+    },
+    {
+        "name": "Sheikh Monirul Tipu",
+        "id": 3,
+        "designation": "Drummer",
+        "band": "Warfaze",
+        "price": 90,
+        "img": "https://media-eng.dhakatribune.com/uploads/2020/10/img-3627-1602792564193.PNG",
+        "course": "6 Month"
+    },
+    {
+        "name": "Saidus Khaled Sumon",
+        "id": 4,
+        "designation": "Bassist",
+        "band": "BassBaba Sumon",
+        "price": 250,
+        "img": "https://www.daily-bangladesh.com/media/imgAll/2019December/en/Sumon-Bassbaba-bass-guitarist-2002260811.jpg",
+        "course": "7 Month"
+    },
+    {
+        "name": "Lincoln D Costa",
+        "id": 5,
+        "designation": "Vocalist",
+        "band": "Artcell",
+        "price": 399,
+        "img": "https://pbs.twimg.com/media/DF7LL6rVoAAD0UB.jpg",
+        "course": "24 Month"
+    },
+    {
+        "name": "Ridy Sheikh",
+        "id": 6,
+        "designation": "Clasical Dancer",
+        "band": "Dance with Ridy",
+        "price": 199,
+        "img": "https://i1.wp.com/moneyscotch.com/wp-content/uploads/2020/08/ridysheikh_71528876_500452460507695_2381565188050330259_n.jpg?fit=820%2C1024&ssl=1",
+        "course": "24 Month"
+    },
+    {
+        "name": "Jalal Ahmed",
+        "id": 7,
+        "designation": "Flute",
+        "band": "Jalals",
+        "price": 80,
+        "img": "https://images.prothomalo.com/prothomalo%2Fimport%2Fmedia%2F2016%2F11%2F11%2Fc26994abce89c00743c82d892a8c66d1-2.jpg?auto=format%2Ccompress&format=webp&w=376&dpr=2.6",
+        "course": "6 Month"
+    },
+    {
+        "name": "Nirmalya Roy",
+        "id": 8,
+        "designation": "Tabla",
+        "band": "Nirmalya",
+        "price": 109,
+        "img": "https://content3.jdmagicbox.com/comp/kolkata/p6/033pxx33.xx33.101124150920.f7p6/catalogue/nirmalya-roy-garia-kolkata-music-classes-mj73p6tpni.jpg",
+        "course": "12 Month"
+    },
+    {
+        "name": "Dr Vidydhar Oke",
+        "id": 9,
+        "designation": "Professional Harmonium Player",
+        "band": "Harmonica",
+        "price": 129,
+        "img": "https://images.hindustantimes.com/rf/image_size_800x600/HT/p1/2012/01/16/Incoming/Pictures/798237_Wallpaper2.jpg",
+        "course": "12 Month"
+    }
+]
